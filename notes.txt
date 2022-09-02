@@ -1,0 +1,37 @@
+# Variables and Datarypes
+
+1. number
+2. string 
+3. Boolean 
+4. Object
+5. null
+6. undefined
+
+** In javascript string value can be created using single quotes or double quotes 
+
+** Variables are dynamically typed 
+(the type of the variable is decided based on the type of the value it holds)
+
+** undefined is a keyword in JS
+(Undefined means a variable is declared but no value has been stored into it yet)
+
+** null represent an explicit value to represent nothing.
+
+***Operators***
+
+1.Strict equals
+2.Concatenation
+3.typeof
+4.exponentiation
+
+** the equality Operators only checks for the value and not the data type.
+
+** to compare by checking both value and data type strict equalityor triple equals Operator can be used.
+
+typeof: 
+
+Using typeof Operator we can determine the data type of a variable
+
+exponentiation Operator:
+
+It is used to specify how many times a value needs to be multiplied by itself.
