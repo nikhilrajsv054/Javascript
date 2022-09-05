@@ -23,7 +23,7 @@ for(x=1; x <=5; x++)
    for (y=1; y <= x; y++)
      {
      if(y%2!=0){
-        chr=chr+("*");
+        chr=chr+("1");
      }
      else{
          chr=chr+("#")
@@ -34,5 +34,13 @@ for(x=1; x <=5; x++)
  chr='';    
 }
 
+var i;
+var x;
+for(i=1; i<=5; i++)
+{
+ for(x=1; x<=i; x++)
+    console.log(x);
+    console.log("<br>");
+}
 // dow while should be used only when the body needs
 //to be executed at least once,regardless of the outcome of the condition
